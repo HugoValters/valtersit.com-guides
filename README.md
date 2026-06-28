@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*106 guides · last updated 2026-06-28*
+*107 guides · last updated 2026-06-28*
 
 ---
 
@@ -138,6 +138,10 @@
 - [You Think the Dark Web Is Just for Hackers? Here's What I Actually Found](security/is-the-dark-web-just-for-hackers.md) · [↗ valtersit.com](https://www.valtersit.com/you-think-the-dark-web-is-just-for-hackers-heres-what-i-actually-found/)
 - [Your VPN is Your Biggest Vulnerability: The Irony of Perimeter Security](security/Your-VPN-is-Your-Biggest-Vulnerability-The-irony-of-Perimeter-Security.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Your-VPN-is-Your-Biggest-Vulnerability-The-irony-of-Perimeter-Security/)
 - [\"admin/admin\": How Your $10,000 Firewall is Compromised by a $1 Mistake](security/admin_admin-How-Your-10000-Firewall-is-Compromised-by-a-1-Mistake.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/admin_admin-How-Your-10000-Firewall-is-Compromised-by-a-1-Mistake/)
+
+## 📊 Monitoring
+
+- [Log Aggregation with Loki: The Prometheus Approach to Logs](monitoring/log-aggregation-with-loki-the-prometheus-approach-to-logs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/monitoring/log-aggregation-with-loki-the-prometheus-approach-to-logs/)
 
 ## 🖧  Proxmox
 
