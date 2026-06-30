@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*108 guides · last updated 2026-06-29*
+*108 guides · last updated 2026-06-30*
 
 ---
 
@@ -150,6 +150,36 @@
 ## 🖧  Proxmox
 
 - [Proxmox Network Configuration: Bridges, Bonds, and VLANs](proxmox/proxmox-network-configuration-bridges-bonds-and-vlans.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-network-configuration-bridges-bonds-and-vlans/)
+
+---
+
+## 🚨 CVE Database
+
+AI-generated vulnerability intelligence — CVSS scores, EPSS, MITRE tactics, Nuclei templates, YARA/Sigma rules, PoC status and patch details.
+
+**[→ valtersit.com/cve/](https://www.valtersit.com/cve/)** — updated daily from NVD, CISA KEV, OSV.dev
+
+---
+
+## 🗄️ Cyber Archive (Vault)
+
+Practical sysadmin & DevOps how-to articles — Docker, Kubernetes, Proxmox, Linux hardening, monitoring, databases and more. No fluff, production-tested.
+
+**[→ valtersit.com/vault/](https://www.valtersit.com/vault/)**
+
+---
+
+## 💰 Partner Deals
+
+Exclusive discounts for the Valters IT Hub community:
+
+| Product | Deal | Details |
+|---|---|---|
+| [GL-iNet Slate 7 Pro](https://www.valtersit.com/deals/glinet/) | 10% OFF | Wi-Fi 7 travel router, 1100 Mbps WireGuard VPN |
+| [SafeLine WAF](https://www.valtersit.com/deals/safeline/) | 5% OFF | Open-source self-hosted WAF, 18k+ teams |
+| [Zima Hardware](https://www.valtersit.com/deals/zima/) | $15 OFF · code `VALTERSIT` | Silent x86 homelab server |
+| [Zone.eu Cloud](https://www.valtersit.com/deals/zone/) | Exclusive deal | European VPS, GDPR compliant |
+| [Click & Grow](https://www.valtersit.com/deals/clickandgrow/) | 10% OFF · code `VALTERS` | Automated indoor garden |
 
 ---
 
