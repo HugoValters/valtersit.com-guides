@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*108 guides · last updated 2026-06-30*
+*109 guides · last updated 2026-07-01*
 
 ---
 
@@ -54,6 +54,7 @@
 - [Turn Your ZimaBoard 2 Into an Ultimate Cyber Lab with Kasm (2026 Guide)](Zima/zimaboard-2-kasm.md) · [↗ valtersit.com](https://www.valtersit.com/turn-your-zimaboard-2-into-an-ultimate-cyber-lab-with-kasm-2026-guide/)
 - [ZimaBoard 2: The 'Raspberry Pi Killer' or Just a Shiny Box? My Honest First Look.](Zima/zimaboard-2-review.md) · [↗ valtersit.com](https://www.valtersit.com/zimaboard-2-raspberry-pi-killer-honest-review/)
 - [ZimaBoard Home Server Setup: Pushing the Celeron to its Limits](Zima/zimaboard-home-server-setup-pushing-the-celeron-to-its-limits.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimaboard-home-server-setup-pushing-the-celeron-to-its-limits/)
+- [ZimaBoard vs Raspberry Pi 5: Home Lab Server Winner in 2025](Zima/zimaboard-vs-raspberry-pi-5-home-lab-server-winner-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimaboard-vs-raspberry-pi-5-home-lab-server-winner-in-2025/)
 
 ## 🌐 Web Hosting
 
