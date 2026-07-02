@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*109 guides · last updated 2026-07-01*
+*110 guides · last updated 2026-07-02*
 
 ---
 
@@ -126,6 +126,7 @@
 
 - [Exposing SSH to 0.0.0.0: The Fast Track to a Brute-Force Apocalypse](security/Exposing-SSH-to-0_0_0_0-The-Fast-Track-to-a-Brute-Force-Apocalypse.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Exposing-SSH-to-0_0_0_0-The-Fast-Track-to-a-Brute-Force-Apocalypse/)
 - [Hardcoded Passwords in Scripts: That's Not Automation, That's a Breach](security/Hardcoded-Passwords-in-Scripts-Thats-Not-Automation-Thats-a-Breach.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Hardcoded-Passwords-in-Scripts-Thats-Not-Automation-Thats-a-Breach/)
+- [How to Protect Your Homelab and API with a Free Self-Hosted WAF (SafeLine Docker Install)](security/safeline-waf-docker-homelab-api-protection.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/safeline-waf-docker-homelab-api-protection/)
 - [I Dived into the Dark Web in 2025: Shocking Secrets, Scams, and Surprises That’ll Haunt Your Browser History S01E01](security/dark-web-diaries-s01e01.md) · [↗ valtersit.com](https://www.valtersit.com/dark-web-diaries-2025-episode-1/)
 - [Lock Down SSH: Configuring Two-Factor Authentication (2FA) with Google Authenticator](security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator/)
 - [MFA Fatigue: Why Your 'Secure' Push Notifications Are Getting You Hacked](security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked/)
