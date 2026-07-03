@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*110 guides · last updated 2026-07-02*
+*111 guides · last updated 2026-07-03*
 
 ---
 
@@ -152,6 +152,7 @@
 ## 🖧  Proxmox
 
 - [Proxmox Network Configuration: Bridges, Bonds, and VLANs](proxmox/proxmox-network-configuration-bridges-bonds-and-vlans.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-network-configuration-bridges-bonds-and-vlans/)
+- [Proxmox SDN: Software-Defined Networking for Multi-Node Clusters](proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters/)
 
 ---
 
