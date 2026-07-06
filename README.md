@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*112 guides · last updated 2026-07-05*
+*113 guides · last updated 2026-07-06*
 
 ---
 
@@ -149,6 +149,7 @@
 ## 📊 Monitoring
 
 - [Log Aggregation with Loki: The Prometheus Approach to Logs](monitoring/log-aggregation-with-loki-the-prometheus-approach-to-logs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/monitoring/log-aggregation-with-loki-the-prometheus-approach-to-logs/)
+- [OpenTelemetry Collector: Unified Observability Without Vendor Lock-in](monitoring/opentelemetry-collector-unified-observability-without-vendor-lock-in.md) · [↗ valtersit.com](https://www.valtersit.com/guides/monitoring/opentelemetry-collector-unified-observability-without-vendor-lock-in/)
 
 ## 🖧  Proxmox
 
