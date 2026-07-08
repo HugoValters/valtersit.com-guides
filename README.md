@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*113 guides · last updated 2026-07-07*
+*114 guides · last updated 2026-07-08*
 
 ---
 
@@ -84,6 +84,7 @@
 
 - [BGP in the HomeLab: Overkill or Architectural Necessity?](networking/BGP_in-the-HomeLab-Overkill_or_Architectural_Necessity.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/BGP_in-the-HomeLab-Overkill_or_Architectural_Necessity/)
 - [DNS Leaks: The Silent Privacy Killer in Your \"Secure\" VPN](networking/DNS_Leaks-The_Silent_Privacy_Killer_in_Your -Secure-VPN.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/DNS_Leaks-The_Silent_Privacy_Killer_in_Your -Secure-VPN/)
+- [Deploying Encrypted DNS Internally: DoH and DoT Guide](networking/deploying-encrypted-dns-internally-doh-and-dot-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/deploying-encrypted-dns-internally-doh-and-dot-guide/)
 - [Dual-WAN Failover: Because 'My Internet is Down' is Not an Option](networking/Dual-WAN-Failover-Because_My_Internet_is_Down_is_Not_an_Option.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/Dual-WAN-Failover-Because_My_Internet_is_Down_is_Not_an_Option/)
 - [Firewall 101: The 'Drop Everything by Default' Manifesto](networking/Firewall_101-The_Drop_Everything_by_Default_Manifesto.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/Firewall_101-The_Drop_Everything_by_Default_Manifesto/)
 - [If You Can't See It, You Can't Fix It: Network Monitoring with SNMP & Grafana](networking/If_You_Cant_See_It_You_Cant_Fix_It-Network-Monitoring_with_SNMP_Grafana.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/If_You_Cant_See_It_You_Cant_Fix_It-Network-Monitoring_with_SNMP_Grafana/)
