@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*115 guides · last updated 2026-07-11*
+*116 guides · last updated 2026-07-12*
 
 ---
 
@@ -102,6 +102,7 @@
 - [What Is Tailscale? The VPN That Doesn't Suck](networking/what-is-tailscale.md) · [↗ valtersit.com](https://www.valtersit.com/what-is-tailscale-the-vpn-that-doesnt-suck/)
 - [WireGuard vs OpenVPN: Kernel Space vs User Space – A Reality Check](networking/wireguard-vs-openvpn-kernel-space-vs-user-space--a-reality-check.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/wireguard-vs-openvpn-kernel-space-vs-user-space--a-reality-check/)
 - [WireGuard vs OpenVPN: Why You're Still Driving a Tractor in a Formula 1 World](networking/WireGuard_vs_OpenVPN-Why_Youre_Still_Driving_a_Tractor_in_a_Formula-1-World.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/WireGuard_vs_OpenVPN-Why_Youre_Still_Driving_a_Tractor_in_a_Formula-1-World/)
+- [pfSense vs OPNsense: A Pragmatic Comparison for Self-Hosters](networking/pfsense-vs-opnsense-a-pragmatic-comparison-for-self-hosters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/pfsense-vs-opnsense-a-pragmatic-comparison-for-self-hosters/)
 
 ## 🗄️  Databases & Storage
 
