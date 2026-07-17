@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*118 guides · last updated 2026-07-16*
+*119 guides · last updated 2026-07-17*
 
 ---
 
@@ -116,6 +116,7 @@
 - [PostgreSQL Scaling: Choosing Your Poison (Replication vs. Sharding)](databases/postgresql-scaling-choosing-your-poison-replication-vs-sharding.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/postgresql-scaling-choosing-your-poison-replication-vs-sharding/)
 - [Proxmox ZFS ARC: Why Your Hypervisor is Starving VMs of Memory](databases/Proxmox-ZFS-ARC-Why-Your-Hypervisor-is-Starving-VMs-of-Memory.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Proxmox-ZFS-ARC-Why-Your-Hypervisor-is-Starving-VMs-of-Memory/)
 - [Read-Only Roles: How to Stop the Accidental DROP TABLE](databases/Read-Only_Roles-How_to_Stop_the_Accidental_DROP_TABLE.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Read-Only_Roles-How_to_Stop_the_Accidental_DROP_TABLE/)
+- [Redis Cluster vs Sentinel: Choosing the Right HA Setup](databases/redis-cluster-vs-sentinel-choosing-the-right-ha-setup.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/redis-cluster-vs-sentinel-choosing-the-right-ha-setup/)
 - [Redis HA Isn't Magic, It's a Distributed System. Treat It Like One.](databases/redis-ha-isnt-magic-its-a-distributed-system-treat-it-like-one.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/redis-ha-isnt-magic-its-a-distributed-system-treat-it-like-one/)
 - [SQLite in Docker Containers: A Masterclass in Data Deletion](databases/SQLite-in-Docker-Containers-A-Masterclass-in-Data-Deletion.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/SQLite-in-Docker-Containers-A-Masterclass-in-Data-Deletion/)
 - [Stop Using pg_dump for Production Backups: The Case for WAL Archiving](databases/Stop_Using_pg_dump_for_Production_Backups-The_Case_for_WAL_Archiving.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Stop_Using_pg_dump_for_Production_Backups-The_Case_for_WAL_Archiving/)
