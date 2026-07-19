@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*119 guides · last updated 2026-07-18*
+*120 guides · last updated 2026-07-19*
 
 ---
 
@@ -62,6 +62,7 @@
 
 - [DirectAdmin in 2025: The Lightweight Alternative to cPanel and Plesk](hosting/directadmin-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/directadmin-in-2025-the-lightweight-alternative-to-cpanel-and-plesk/)
 - [HestiaCP Deep-Dive: Nginx FastCGI Caching Secrets](hosting/hestiacp-deepdive-nginx-fastcgi-caching-secrets.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/hestiacp-deepdive-nginx-fastcgi-caching-secrets/)
+- [HestiaCP Nginx FastCGI Caching: PHP Performance Secrets](hosting/hestiacp-nginx-fastcgi-caching-php-performance-secrets.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/hestiacp-nginx-fastcgi-caching-php-performance-secrets/)
 - [HestiaCP: The Minimalist’s Revenge and the True Heir to VestaCP](hosting/HestiaCP-The_Minimalists_Revenge_and_the_True_Heir_to_VestaCP.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/HestiaCP-The_Minimalists_Revenge_and_the_True_Heir_to_VestaCP/)
 - [HestiaCP: The True Heir of VestaCP and the Minimalist’s Revenge](hosting/HestiaCP-The-True-Heir-of-VestaCP-and-the-Minimalists-Revenge.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/HestiaCP-The-True-Heir-of-VestaCP-and-the-Minimalists-Revenge/)
 - [High Availability Web Hosting: Why Your Panel Can't Actually Do It](hosting/High_Availability_Web_Hosting-Why_Your_Panel_Cant_Actually_Do_It.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/High_Availability_Web_Hosting-Why_Your_Panel_Cant_Actually_Do_It/)
