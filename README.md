@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*120 guides · last updated 2026-07-19*
+*121 guides · last updated 2026-07-20*
 
 ---
 
@@ -34,6 +34,7 @@
 - [CI/CD Observability: Stop Guessing and Start Measuring with DORA](gitlab/CI-CD_Observability-Stop_Guessing_and_Start_Measuring_with_DORA.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/CI-CD_Observability-Stop_Guessing_and_Start_Measuring_with_DORA/)
 - [Container Vulnerability Scanning: Why Your Base Image is a Security Minefield](gitlab/Container_Vulnerability_Scanning-Why_Your_Base_Image_is_a_Security_Minefield.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/Container_Vulnerability_Scanning-Why_Your_Base_Image_is_a_Security_Minefield/)
 - [GitHub Actions: Your Pipeline is Only as Secure as the Random Code You Copied](gitlab/GitHub-Actions-Your-Pipeline-is-Only-as-Secure as-the-Random-Code-You-Copied.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/GitHub-Actions-Your-Pipeline-is-Only-as-Secure as-the-Random-Code-You-Copied/)
+- [GitLab Container Registry Cleanup: Stop Running Out of Disk Space](gitlab/gitlab-container-registry-cleanup-stop-running-out-of-disk-space.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/gitlab-container-registry-cleanup-stop-running-out-of-disk-space/)
 - [GitOps and ArgoCD: Why You Should Stop Pushing Your Deployments](gitlab/GitOps_and_ArgoCD-Why_You_Should_Stop_Pushing_Your_Deployments.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/GitOps_and_ArgoCD-Why_You_Should_Stop_Pushing_Your_Deployments/)
 - [Jenkins: The Industry Standard for Technical Debt](gitlab/Jenkins-The_Industry_Standard_for_Technical_Debt.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/Jenkins-The_Industry_Standard_for_Technical_Debt/)
 - [Self-Hosted CI Runners: Security vs. Performance in the Private Cloud](gitlab/Self-Hosted_CI_Runners-Security_vs_Performance_in_the_Private_Cloud.md) · [↗ valtersit.com](https://www.valtersit.com/guides/gitlab/Self-Hosted_CI_Runners-Security_vs_Performance_in_the_Private_Cloud/)
