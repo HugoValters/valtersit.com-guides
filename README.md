@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*122 guides · last updated 2026-07-23*
+*123 guides · last updated 2026-07-24*
 
 ---
 
@@ -139,6 +139,7 @@
 - [Lock Down SSH: Configuring Two-Factor Authentication (2FA) with Google Authenticator](security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator/)
 - [MFA Fatigue: Why Your 'Secure' Push Notifications Are Getting You Hacked](security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked/)
 - [Network Segmentation: VLANs and Firewall Rules for Production](security/network-segmentation-vlans-and-firewall-rules-for-production.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/network-segmentation-vlans-and-firewall-rules-for-production/)
+- [Network Segmentation: VLANs and Firewall Rules for Service Isolation](security/network-segmentation-vlans-and-firewall-rules-for-service-isolation.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/network-segmentation-vlans-and-firewall-rules-for-service-isolation/)
 - [Port 3389 to the World: How to Lose Your Company Data Over the Weekend](security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend/)
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](security/Schrodingers-Backup-If-You-Havent-Tested-a-Restore-You-Dont-Have-a-Backup.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Schrodingers-Backup-If-You-Havent-Tested-a-Restore-You-Dont-Have-a-Backup/)
 - [Still Running SMBv1? You're Basically Inviting WannaCry to Dinner](security/Still-Running-SMBv1-You_re-Basically-Inviting-WannaCry-to-Dinner.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Still-Running-SMBv1-You_re-Basically-Inviting-WannaCry-to-Dinner/)
