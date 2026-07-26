@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*123 guides · last updated 2026-07-25*
+*124 guides · last updated 2026-07-26*
 
 ---
 
@@ -72,6 +72,7 @@
 - [Modern Monitoring: Stop Using 1990s Analytics for Your Hosting Servers](hosting/Modern_Monitoring-Stop_Using_1990s_Analytics_for_Your_Hosting_Servers.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/Modern_Monitoring-Stop_Using_1990s_Analytics_for_Your_Hosting_Servers/)
 - [PHP-FPM Tuning: Squeezing Every Drop of Performance Out of Your Hosting Node](hosting/PHP-FPM_Tuning-Squeezing_Every_Drop_of_Performance_Out_of_Your_Hosting_Node.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/PHP-FPM_Tuning-Squeezing_Every_Drop_of_Performance_Out_of_Your_Hosting_Node/)
 - [Plesk in 2025: The All-in-One Hosting Control Panel That Might Just Replace Everything Else](hosting/plesk-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/plesk-in-2025-the-all-in-one-hosting-control-panel-that-might-just-replace-everything-else/)
+- [Self-Hosted Email with Postfix and Dovecot: Honest Sysadmin's Guide](hosting/self-hosted-email-with-postfix-and-dovecot-honest-sysadmin.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/self-hosted-email-with-postfix-and-dovecot-honest-sysadmin/)
 - [Softaculous & One-Click Installers: A Fast Track to a Compromised Server](hosting/Softaculous_One-Click Installers-A_Fast_Track_to_a_Compromised_Server.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/Softaculous_One-Click Installers-A_Fast_Track_to_a_Compromised_Server/)
 - [Stop Paying for Plesk: How to Migrate to ISPConfig (Free Hosting Panel)](hosting/Plesk-to-ISPConfig-Migration-Guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/Plesk-to-ISPConfig-Migration-Guide/)
 - [The SaaS Hosting Revolution: Why RunCloud, Forge, and Ploi are Winning](hosting/The-SaaS-Hosting-Revolution-Why-RunCloud-Forge-and-Ploi-are-Winning.md) · [↗ valtersit.com](https://www.valtersit.com/guides/hosting/The-SaaS-Hosting-Revolution-Why-RunCloud-Forge-and-Ploi-are-Winning/)
