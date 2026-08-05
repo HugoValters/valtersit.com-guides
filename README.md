@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*126 guides · last updated 2026-08-04*
+*127 guides · last updated 2026-08-05*
 
 ---
 
@@ -141,6 +141,7 @@
 - [I Dived into the Dark Web in 2025: Shocking Secrets, Scams, and Surprises That’ll Haunt Your Browser History S01E01](security/dark-web-diaries-s01e01.md) · [↗ valtersit.com](https://www.valtersit.com/dark-web-diaries-2025-episode-1/)
 - [Lock Down SSH: Configuring Two-Factor Authentication (2FA) with Google Authenticator](security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Lock-Down-SSH-Configuring-Two-Factor-Authentication-2FA-with-Google-Authenticator/)
 - [MFA Fatigue: Why Your 'Secure' Push Notifications Are Getting You Hacked](security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/MFA-Fatigue-Why-Your-Secure-Push-Notifications-Are-Getting-You-Hacked/)
+- [Network Segmentation: VLANs and Firewall Rules That Actually Work](security/network-segmentation-vlans-and-firewall-rules-that-actually-work.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/network-segmentation-vlans-and-firewall-rules-that-actually-work/)
 - [Network Segmentation: VLANs and Firewall Rules for Production](security/network-segmentation-vlans-and-firewall-rules-for-production.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/network-segmentation-vlans-and-firewall-rules-for-production/)
 - [Network Segmentation: VLANs and Firewall Rules for Service Isolation](security/network-segmentation-vlans-and-firewall-rules-for-service-isolation.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/network-segmentation-vlans-and-firewall-rules-for-service-isolation/)
 - [Port 3389 to the World: How to Lose Your Company Data Over the Weekend](security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend/)
