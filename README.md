@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*127 guides · last updated 2026-08-06*
+*128 guides · last updated 2026-08-07*
 
 ---
 
@@ -158,6 +158,7 @@
 ## 🐧 Linux
 
 - [SSH Hardening Beyond Port 22: Certificate Auth and Jump Hosts](linux/ssh-hardening-beyond-port-22-certificate-auth-and-jump-hosts.md) · [↗ valtersit.com](https://www.valtersit.com/guides/linux/ssh-hardening-beyond-port-22-certificate-auth-and-jump-hosts/)
+- [eBPF Network Observability: Zero-Install Kernel Tools](linux/ebpf-network-observability-zero-install-kernel-tools.md) · [↗ valtersit.com](https://www.valtersit.com/guides/linux/ebpf-network-observability-zero-install-kernel-tools/)
 
 ## 📊 Monitoring
 
