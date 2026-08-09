@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*128 guides · last updated 2026-08-08*
+*129 guides · last updated 2026-08-09*
 
 ---
 
@@ -56,6 +56,7 @@
 - [CasaOS on ZimaBoard: Is It Good Enough for Power Users in 2025?](Zima/casaos-on-zimaboard-is-it-good-enough-for-power-users-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/casaos-on-zimaboard-is-it-good-enough-for-power-users-in-2025/)
 - [My Bulletproof Home Lab with ZimaBoard: Redundant Networks, Kasm & Tailscale VPN](Zima/bulletproof-homelab-zimaboard.md) · [↗ valtersit.com](https://www.valtersit.com/bulletproof-home-lab-zimaboard-redundant-networks-kasm-tailscale/)
 - [Turn Your ZimaBoard 2 Into an Ultimate Cyber Lab with Kasm (2026 Guide)](Zima/zimaboard-2-kasm.md) · [↗ valtersit.com](https://www.valtersit.com/turn-your-zimaboard-2-into-an-ultimate-cyber-lab-with-kasm-2026-guide/)
+- [ZimaBlade NAS Router: Build a Custom 2.5GbE Appliance](Zima/zimablade-nas-router-build-a-custom-25gbe-appliance.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimablade-nas-router-build-a-custom-25gbe-appliance/)
 - [ZimaBoard 2: The 'Raspberry Pi Killer' or Just a Shiny Box? My Honest First Look.](Zima/zimaboard-2-review.md) · [↗ valtersit.com](https://www.valtersit.com/zimaboard-2-raspberry-pi-killer-honest-review/)
 - [ZimaBoard Home Server Setup: Pushing the Celeron to its Limits](Zima/zimaboard-home-server-setup-pushing-the-celeron-to-its-limits.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimaboard-home-server-setup-pushing-the-celeron-to-its-limits/)
 - [ZimaBoard vs Raspberry Pi 5: Home Lab Server Winner in 2025](Zima/zimaboard-vs-raspberry-pi-5-home-lab-server-winner-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimaboard-vs-raspberry-pi-5-home-lab-server-winner-in-2025/)
