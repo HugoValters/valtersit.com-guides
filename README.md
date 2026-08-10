@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*129 guides · last updated 2026-08-09*
+*130 guides · last updated 2026-08-10*
 
 ---
 
@@ -22,6 +22,7 @@
 ## ☸️  Kubernetes & Rancher
 
 - [Kubernetes CPU Throttling & OOMKilled: The Requests vs Limits Trap](kubernetes/Kubernetes-CPU-Throttling-and-OOMKilled-The-Requests-vs-Limits-Trap.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/Kubernetes-CPU-Throttling-and-OOMKilled-The-Requests-vs-Limits-Trap/)
+- [Kubernetes Ingress Controllers: Nginx vs Traefik vs Caddy](kubernetes/kubernetes-ingress-controllers-nginx-vs-traefik-vs-caddy.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/kubernetes-ingress-controllers-nginx-vs-traefik-vs-caddy/)
 - [Kubernetes RBAC Nightmare: Why Your Default ServiceAccount is a Backdoor](kubernetes/Kubernetes-RBAC-Nightmare-Why-Your-Default-ServiceAccount-is-a-Backdoor.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/Kubernetes-RBAC-Nightmare-Why-Your-Default-ServiceAccount-is-a-Backdoor/)
 - [Rancher: Taming the Multi-Cluster Zoo Without Losing Your Mind](kubernetes/rancher-taming-the-multicluster-zoo-without-losing-your-mind.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/rancher-taming-the-multicluster-zoo-without-losing-your-mind/)
 - [The .env Delusion: Why Your Docker Environment Variables are Leaking Secrets](kubernetes/The-env-Delusion- Why-Your-Docker-Environment-Variables-are-Leaking-Secrets.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/The-env-Delusion- Why-Your-Docker-Environment-Variables-are-Leaking-Secrets/)
