@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*130 guides · last updated 2026-08-11*
+*131 guides · last updated 2026-08-12*
 
 ---
 
@@ -11,6 +11,7 @@
 
 - [Containerization: The Future of Secure and Seamless Application Deployment using KASM Workspace](docker/containerization-kasm-workspace.md) · [↗ valtersit.com](https://www.valtersit.com/containerization-the-future-of-secure-and-seamless-application-deployment-using-kasm-workspace/)
 - [Docker Swarm is Dead. Long Live Compose.](docker/docker-swarm-is-dead-long-live-compose.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-swarm-is-dead-long-live-compose/)
+- [Docker Swarm vs Compose: Single-Node Deployment Guide](docker/docker-swarm-vs-compose-single-node-deployment-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-swarm-vs-compose-single-node-deployment-guide/)
 - [Revolutionizing Notifications with NTFY.sh](docker/ntfy.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/ntfy/)
 - [Russian Roulette with Docker Tags: Why Using :latest is Supply Chain Suicide](docker/Russian-Roulette-with-Docker-Tags-Why-Using-latest-is-Supply-Chain-Suicide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/Russian-Roulette-with-Docker-Tags-Why-Using-latest-is-Supply-Chain-Suicide/)
 - [The 'Lazy' SysAdmin's Guide to a Self-Healing Home Lab in 2026](docker/lazy-sysadmin-homelab.md) · [↗ valtersit.com](https://www.valtersit.com/lazy-sysadmins-guide-to-a-self-healing-home-lab-docker-watchtower-uptime-kuma/)
