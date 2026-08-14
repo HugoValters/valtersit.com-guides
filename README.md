@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*131 guides · last updated 2026-08-13*
+*132 guides · last updated 2026-08-14*
 
 ---
 
@@ -47,6 +47,7 @@
 
 ## ⚙️  Automation
 
+- [Ansible Idempotency: Writing Playbooks That Never Fail Twice](automation/ansible-idempotency-writing-playbooks-that-never-fail-twice.md) · [↗ valtersit.com](https://www.valtersit.com/guides/automation/ansible-idempotency-writing-playbooks-that-never-fail-twice/)
 - [How I Automated My Entire Server Setup Using GitHub Actions and Ansible](automation/automated-server-setup.md) · [↗ valtersit.com](https://www.valtersit.com/how-i-automated-my-entire-server-setup-using-github-actions-and-ansible/)
 - [Renovate Bot Configuration: Automated Dependency Updates Without the Pain](automation/renovate-bot-configuration-automated-dependency-updates-without-the-pain.md) · [↗ valtersit.com](https://www.valtersit.com/guides/automation/renovate-bot-configuration-automated-dependency-updates-without-the-pain/)
 - [Revolutionizing Notifications with NTFY.sh: Use Cases, Benefits, and Best Practices](automation/ntfy-notifications-guide.md) · [↗ valtersit.com](https://www.valtersit.com/revolutionizing-notifications-with-ntfysh-use-cases-benefits-and-best-practices/)
