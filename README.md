@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*132 guides · last updated 2026-08-15*
+*133 guides · last updated 2026-08-16*
 
 ---
 
@@ -117,6 +117,7 @@
 ## 🗄️  Databases & Storage
 
 - [Consumer SSDs on ZFS/Databases: Why Your Drives Are Dying in 6 Months](databases/Consumer-SSDs-on-ZFS_Databases-Why-Your-Drives-Are-Dying-in-6-Months.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Consumer-SSDs-on-ZFS_Databases-Why-Your-Drives-Are-Dying-in-6-Months/)
+- [Database Backup Strategies: WAL, PITR, and Restore Testing](databases/database-backup-strategies-wal-pitr-and-restore-testing.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/database-backup-strategies-wal-pitr-and-restore-testing/)
 - [Default MongoDB Installations: A Gift to Ransomware Gangs](databases/Default_MongoDB_Installations-A-Gift_to_Ransomware_Gangs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Default_MongoDB_Installations-A-Gift_to_Ransomware_Gangs/)
 - [Elasticsearch Split-Brain: When Your Cluster Develops Multiple Personalities](databases/Elasticsearch_Split-Brain-When_Your_Cluster_Develops_Multiple_Personalities.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Elasticsearch_Split-Brain-When_Your_Cluster_Develops_Multiple_Personalities/)
 - [MySQL's Fake UTF-8: Why Your Database is Truncating Emojis and Text](databases/MySQLS-Fake-UTF-8-Why-Your-Database-is-Truncating-Emojis-and-Text.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/MySQLS-Fake-UTF-8-Why-Your-Database-is-Truncating-Emojis-and-Text/)
