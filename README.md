@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*133 guides · last updated 2026-08-16*
+*134 guides · last updated 2026-08-17*
 
 ---
 
@@ -57,6 +57,7 @@
 
 - [CasaOS on Zima: A Gilded Cage for Power Users?](Zima/casaos-on-zima-a-gilded-cage-for-power-users.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/casaos-on-zima-a-gilded-cage-for-power-users/)
 - [CasaOS on ZimaBoard: Is It Good Enough for Power Users in 2025?](Zima/casaos-on-zimaboard-is-it-good-enough-for-power-users-in-2025.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/casaos-on-zimaboard-is-it-good-enough-for-power-users-in-2025/)
+- [Docker on ZimaBoard: Memory Limits That Actually Work](Zima/docker-on-zimaboard-memory-limits-that-actually-work.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/docker-on-zimaboard-memory-limits-that-actually-work/)
 - [My Bulletproof Home Lab with ZimaBoard: Redundant Networks, Kasm & Tailscale VPN](Zima/bulletproof-homelab-zimaboard.md) · [↗ valtersit.com](https://www.valtersit.com/bulletproof-home-lab-zimaboard-redundant-networks-kasm-tailscale/)
 - [Turn Your ZimaBoard 2 Into an Ultimate Cyber Lab with Kasm (2026 Guide)](Zima/zimaboard-2-kasm.md) · [↗ valtersit.com](https://www.valtersit.com/turn-your-zimaboard-2-into-an-ultimate-cyber-lab-with-kasm-2026-guide/)
 - [ZimaBlade NAS Router: Build a Custom 2.5GbE Appliance](Zima/zimablade-nas-router-build-a-custom-25gbe-appliance.md) · [↗ valtersit.com](https://www.valtersit.com/guides/Zima/zimablade-nas-router-build-a-custom-25gbe-appliance/)
