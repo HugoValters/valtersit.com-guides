@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*135 guides · last updated 2026-08-19*
+*135 guides · last updated 2026-08-20*
 
 ---
 
