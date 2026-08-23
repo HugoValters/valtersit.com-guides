@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*136 guides · last updated 2026-08-22*
+*137 guides · last updated 2026-08-23*
 
 ---
 
@@ -178,6 +178,10 @@
 - [Proxmox Network Configuration: Bridges, Bonds, and VLANs](proxmox/proxmox-network-configuration-bridges-bonds-and-vlans.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-network-configuration-bridges-bonds-and-vlans/)
 - [Proxmox SDN: Multi-Node Cluster Networking](proxmox/proxmox-sdn-multi-node-cluster-networking.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-multi-node-cluster-networking/)
 - [Proxmox SDN: Software-Defined Networking for Multi-Node Clusters](proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters/)
+
+## Devsecops
+
+- [IaC Security: Checkov and tfsec for Terraform and Helm](devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm.md) · [↗ valtersit.com](https://www.valtersit.com/guides/devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm/)
 
 ---
 
