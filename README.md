@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*137 guides · last updated 2026-09-06*
+*139 guides · last updated 2026-09-07*
 
 ---
 
@@ -182,6 +182,11 @@
 ## Devsecops
 
 - [IaC Security: Checkov and tfsec for Terraform and Helm](devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm.md) · [↗ valtersit.com](https://www.valtersit.com/guides/devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm/)
+
+## Ci_cd
+
+- [Blue-Green Deployments Without Kubernetes: Zero Downtime Is Boring (and That's the Point)](ci_cd/blue-green-deployments-without-kubernetes-zero-downtime-is-boring-and-that.md) · [↗ valtersit.com](https://www.valtersit.com/guides/ci_cd/blue-green-deployments-without-kubernetes-zero-downtime-is-boring-and-that/)
+- [Blue-Green Deployments: Zero-Downtime Without Kubernetes](ci_cd/blue-green-deployments-zero-downtime-without-kubernetes.md) · [↗ valtersit.com](https://www.valtersit.com/guides/ci_cd/blue-green-deployments-zero-downtime-without-kubernetes/)
 
 ---
 
