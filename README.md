@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*140 guides · last updated 2026-09-12*
+*142 guides · last updated 2026-09-13*
 
 ---
 
@@ -25,6 +25,7 @@
 ## ☸️  Kubernetes & Rancher
 
 - [Kubernetes CPU Throttling & OOMKilled: The Requests vs Limits Trap](kubernetes/Kubernetes-CPU-Throttling-and-OOMKilled-The-Requests-vs-Limits-Trap.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/Kubernetes-CPU-Throttling-and-OOMKilled-The-Requests-vs-Limits-Trap/)
+- [Kubernetes Cluster Autoscaler: Scaling Nodes, Not Pods](kubernetes/kubernetes-cluster-autoscaler-scaling-nodes-not-pods.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/kubernetes-cluster-autoscaler-scaling-nodes-not-pods/)
 - [Kubernetes Ingress Controllers: Nginx vs Traefik vs Caddy](kubernetes/kubernetes-ingress-controllers-nginx-vs-traefik-vs-caddy.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/kubernetes-ingress-controllers-nginx-vs-traefik-vs-caddy/)
 - [Kubernetes RBAC Nightmare: Why Your Default ServiceAccount is a Backdoor](kubernetes/Kubernetes-RBAC-Nightmare-Why-Your-Default-ServiceAccount-is-a-Backdoor.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/Kubernetes-RBAC-Nightmare-Why-Your-Default-ServiceAccount-is-a-Backdoor/)
 - [Rancher: Taming the Multi-Cluster Zoo Without Losing Your Mind](kubernetes/rancher-taming-the-multicluster-zoo-without-losing-your-mind.md) · [↗ valtersit.com](https://www.valtersit.com/guides/kubernetes/rancher-taming-the-multicluster-zoo-without-losing-your-mind/)
@@ -177,6 +178,7 @@
 ## 🖧  Proxmox
 
 - [Proxmox Network Configuration: Bridges, Bonds, and VLANs](proxmox/proxmox-network-configuration-bridges-bonds-and-vlans.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-network-configuration-bridges-bonds-and-vlans/)
+- [Proxmox Resource Pools: Multi-Tenant Isolation Guide](proxmox/proxmox-resource-pools-multi-tenant-isolation-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-resource-pools-multi-tenant-isolation-guide/)
 - [Proxmox SDN: Multi-Node Cluster Networking](proxmox/proxmox-sdn-multi-node-cluster-networking.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-multi-node-cluster-networking/)
 - [Proxmox SDN: Software-Defined Networking for Multi-Node Clusters](proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters/)
 
