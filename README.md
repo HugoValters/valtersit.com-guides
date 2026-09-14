@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*142 guides · last updated 2026-09-13*
+*144 guides · last updated 2026-09-14*
 
 ---
 
@@ -116,6 +116,7 @@
 - [What Is Tailscale? The VPN That Doesn't Suck](networking/what-is-tailscale.md) · [↗ valtersit.com](https://www.valtersit.com/what-is-tailscale-the-vpn-that-doesnt-suck/)
 - [WireGuard vs OpenVPN: Kernel Space vs User Space – A Reality Check](networking/wireguard-vs-openvpn-kernel-space-vs-user-space--a-reality-check.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/wireguard-vs-openvpn-kernel-space-vs-user-space--a-reality-check/)
 - [WireGuard vs OpenVPN: Why You're Still Driving a Tractor in a Formula 1 World](networking/WireGuard_vs_OpenVPN-Why_Youre_Still_Driving_a_Tractor_in_a_Formula-1-World.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/WireGuard_vs_OpenVPN-Why_Youre_Still_Driving_a_Tractor_in_a_Formula-1-World/)
+- [ntopng Traffic Analysis: Finding Bandwidth Hogs](networking/ntopng-traffic-analysis-finding-bandwidth-hogs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/ntopng-traffic-analysis-finding-bandwidth-hogs/)
 - [pfSense vs OPNsense: A Pragmatic Comparison for Self-Hosters](networking/pfsense-vs-opnsense-a-pragmatic-comparison-for-self-hosters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/pfsense-vs-opnsense-a-pragmatic-comparison-for-self-hosters/)
 
 ## 🗄️  Databases & Storage
@@ -181,6 +182,10 @@
 - [Proxmox Resource Pools: Multi-Tenant Isolation Guide](proxmox/proxmox-resource-pools-multi-tenant-isolation-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-resource-pools-multi-tenant-isolation-guide/)
 - [Proxmox SDN: Multi-Node Cluster Networking](proxmox/proxmox-sdn-multi-node-cluster-networking.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-multi-node-cluster-networking/)
 - [Proxmox SDN: Software-Defined Networking for Multi-Node Clusters](proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters.md) · [↗ valtersit.com](https://www.valtersit.com/guides/proxmox/proxmox-sdn-software-defined-networking-for-multi-node-clusters/)
+
+## Cloud
+
+- [GCP vs AWS Networking: VPCs, Peering, Transit Hubs](cloud/gcp-vs-aws-networking-vpcs-peering-transit-hubs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/cloud/gcp-vs-aws-networking-vpcs-peering-transit-hubs/)
 
 ## Devsecops
 
