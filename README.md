@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*144 guides · last updated 2026-09-14*
+*145 guides · last updated 2026-09-15*
 
 ---
 
@@ -11,6 +11,7 @@
 
 - [Containerization: The Future of Secure and Seamless Application Deployment using KASM Workspace](docker/containerization-kasm-workspace.md) · [↗ valtersit.com](https://www.valtersit.com/containerization-the-future-of-secure-and-seamless-application-deployment-using-kasm-workspace/)
 - [Distroless Docker Images: Shrink Your Attack Surface](docker/distroless-docker-images-shrink-your-attack-surface.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/distroless-docker-images-shrink-your-attack-surface/)
+- [Docker BuildKit: Parallelism, Cache Mounts, SSH Forwarding](docker/docker-buildkit-parallelism-cache-mounts-ssh-forwarding.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-buildkit-parallelism-cache-mounts-ssh-forwarding/)
 - [Docker Secrets vs Env Vars: Credential Management](docker/docker-secrets-vs-env-vars-credential-management.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-secrets-vs-env-vars-credential-management/)
 - [Docker Swarm is Dead. Long Live Compose.](docker/docker-swarm-is-dead-long-live-compose.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-swarm-is-dead-long-live-compose/)
 - [Docker Swarm vs Compose: Single-Node Deployment Guide](docker/docker-swarm-vs-compose-single-node-deployment-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/docker/docker-swarm-vs-compose-single-node-deployment-guide/)
