@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*145 guides · last updated 2026-09-15*
+*146 guides · last updated 2026-09-16*
 
 ---
 
@@ -129,6 +129,7 @@
 - [MySQL's Fake UTF-8: Why Your Database is Truncating Emojis and Text](databases/MySQLS-Fake-UTF-8-Why-Your-Database-is-Truncating-Emojis-and-Text.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/MySQLS-Fake-UTF-8-Why-Your-Database-is-Truncating-Emojis-and-Text/)
 - [NFS no_root_squash: How to Give Root Access to Your Entire Storage Array](databases/NFS_no_root_squash-How-to-Give-Root-Access-to-Your-Entire-Storage-Array.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/NFS_no_root_squash-How-to-Give-Root-Access-to-Your-Entire-Storage-Array/)
 - [Oracle DB: When Bad Queries Explode Your TEMP Tablespace](databases/Oracle-DB_When_Bad_Queries_Explode_Your_TEMP_Tablespace.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Oracle-DB_When_Bad_Queries_Explode_Your_TEMP_Tablespace/)
+- [PostgreSQL Backup Strategies: WAL, PITR & Restore Testing](databases/postgresql-backup-strategies-wal-pitr-restore-testing.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/postgresql-backup-strategies-wal-pitr-restore-testing/)
 - [PostgreSQL Scaling: Choosing Your Poison (Replication vs. Sharding)](databases/postgresql-scaling-choosing-your-poison-replication-vs-sharding.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/postgresql-scaling-choosing-your-poison-replication-vs-sharding/)
 - [Proxmox ZFS ARC: Why Your Hypervisor is Starving VMs of Memory](databases/Proxmox-ZFS-ARC-Why-Your-Hypervisor-is-Starving-VMs-of-Memory.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Proxmox-ZFS-ARC-Why-Your-Hypervisor-is-Starving-VMs-of-Memory/)
 - [Read-Only Roles: How to Stop the Accidental DROP TABLE](databases/Read-Only_Roles-How_to_Stop_the_Accidental_DROP_TABLE.md) · [↗ valtersit.com](https://www.valtersit.com/guides/databases/Read-Only_Roles-How_to_Stop_the_Accidental_DROP_TABLE/)
