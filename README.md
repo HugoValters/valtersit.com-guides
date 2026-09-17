@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*146 guides · last updated 2026-09-16*
+*147 guides · last updated 2026-09-17*
 
 ---
 
@@ -55,6 +55,7 @@
 - [How I Automated My Entire Server Setup Using GitHub Actions and Ansible](automation/automated-server-setup.md) · [↗ valtersit.com](https://www.valtersit.com/how-i-automated-my-entire-server-setup-using-github-actions-and-ansible/)
 - [Renovate Bot Configuration: Automated Dependency Updates Without the Pain](automation/renovate-bot-configuration-automated-dependency-updates-without-the-pain.md) · [↗ valtersit.com](https://www.valtersit.com/guides/automation/renovate-bot-configuration-automated-dependency-updates-without-the-pain/)
 - [Revolutionizing Notifications with NTFY.sh: Use Cases, Benefits, and Best Practices](automation/ntfy-notifications-guide.md) · [↗ valtersit.com](https://www.valtersit.com/revolutionizing-notifications-with-ntfysh-use-cases-benefits-and-best-practices/)
+- [Terraform State Management: Backends, Locking, Workspaces](automation/terraform-state-management-backends-locking-workspaces.md) · [↗ valtersit.com](https://www.valtersit.com/guides/automation/terraform-state-management-backends-locking-workspaces/)
 - [Your Ansible Playbook Isn't a Fancy Bash Script. Stop Writing It Like One.](automation/your-ansible-playbook-isnt-a-fancy-bash-script-stop-writing-it-like-one.md) · [↗ valtersit.com](https://www.valtersit.com/guides/automation/your-ansible-playbook-isnt-a-fancy-bash-script-stop-writing-it-like-one/)
 
 ## 🖥️  ZimaBoard & ZimaBlade
