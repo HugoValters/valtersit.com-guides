@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*147 guides · last updated 2026-09-17*
+*148 guides · last updated 2026-09-18*
 
 ---
 
@@ -193,6 +193,10 @@
 ## Devsecops
 
 - [IaC Security: Checkov and tfsec for Terraform and Helm](devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm.md) · [↗ valtersit.com](https://www.valtersit.com/guides/devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm/)
+
+## Zima
+
+- [Docker on ZimaBoard: Memory Constraints & Workarounds](zima/docker-on-zimaboard-memory-constraints-workarounds.md) · [↗ valtersit.com](https://www.valtersit.com/guides/zima/docker-on-zimaboard-memory-constraints-workarounds/)
 
 ## Ci_cd
 
