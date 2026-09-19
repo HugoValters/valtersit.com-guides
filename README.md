@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*148 guides · last updated 2026-09-18*
+*152 guides · last updated 2026-09-19*
 
 ---
 
@@ -103,6 +103,7 @@
 - [Deploying Encrypted DNS Internally: DoH and DoT Guide](networking/deploying-encrypted-dns-internally-doh-and-dot-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/deploying-encrypted-dns-internally-doh-and-dot-guide/)
 - [Dual-WAN Failover: Because 'My Internet is Down' is Not an Option](networking/Dual-WAN-Failover-Because_My_Internet_is_Down_is_Not_an_Option.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/Dual-WAN-Failover-Because_My_Internet_is_Down_is_Not_an_Option/)
 - [Firewall 101: The 'Drop Everything by Default' Manifesto](networking/Firewall_101-The_Drop_Everything_by_Default_Manifesto.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/Firewall_101-The_Drop_Everything_by_Default_Manifesto/)
+- [GL.iNet Slate 7 Pro Review: Wi-Fi 7 Travel Router That Fixed My Homelab Bottleneck](networking/glinet-slate-7-pro-review-wifi7-travel-router-homelab.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/glinet-slate-7-pro-review-wifi7-travel-router-homelab/)
 - [If You Can't See It, You Can't Fix It: Network Monitoring with SNMP & Grafana](networking/If_You_Cant_See_It_You_Cant_Fix_It-Network-Monitoring_with_SNMP_Grafana.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/If_You_Cant_See_It_You_Cant_Fix_It-Network-Monitoring_with_SNMP_Grafana/)
 - [MikroTik FastTrack: The Performance Miracle That Breaks Your Firewall](networking/MikroTik_FastTrack-The_Performance_Miracle_That_Breaks_Your_Firewall.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/MikroTik_FastTrack-The_Performance_Miracle_That_Breaks_Your_Firewall/)
 - [Port Forwarding is a Relic: Why You Should Nuke Your WAN-Facing Rules](networking/Port-Forwarding-is-a-Relic-Why-You-Should-Nuke-Your-WAN-Facing-Rules.md) · [↗ valtersit.com](https://www.valtersit.com/guides/networking/Port-Forwarding-is-a-Relic-Why-You-Should-Nuke-Your-WAN-Facing-Rules/)
@@ -160,6 +161,7 @@
 - [Port 3389 to the World: How to Lose Your Company Data Over the Weekend](security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Port-3389-to-the-World-How-to-Lose-Your-Company-Data-Over-the-Weekend/)
 - [Schrödinger's Backup: If You Haven't Tested a Restore, You Don't Have a Backup](security/Schrodingers-Backup-If-You-Havent-Tested-a-Restore-You-Dont-Have-a-Backup.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Schrodingers-Backup-If-You-Havent-Tested-a-Restore-You-Dont-Have-a-Backup/)
 - [Still Running SMBv1? You're Basically Inviting WannaCry to Dinner](security/Still-Running-SMBv1-You_re-Basically-Inviting-WannaCry-to-Dinner.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/Still-Running-SMBv1-You_re-Basically-Inviting-WannaCry-to-Dinner/)
+- [TLS Certificate Automation: Certbot and ACME at Scale](security/tls-certificate-automation-certbot-and-acme-at-scale.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/tls-certificate-automation-certbot-and-acme-at-scale/)
 - [The 'Domain Admin' Ego Trip: Why Handing Out DA Privileges Guarantees a Ransomware Outbreak](security/The-Domain-Admin-Ego-Trip-Why-Handing-Out-DA-Privileges-Guarantees-a-Ransomware-Outbreak.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/The-Domain-Admin-Ego-Trip-Why-Handing-Out-DA-Privileges-Guarantees-a-Ransomware-Outbreak/)
 - [The Open S3 Bucket Epidemic: Why Reading the Manual is Apparently Too Hard](security/The-Open-S3-Bucket-Epidemic-Why-Reading-the-Manual-is-Apparently-Too-Hard.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/The-Open-S3-Bucket-Epidemic-Why-Reading-the-Manual-is-Apparently-Too-Hard/)
 - [Wazuh SIEM: A Threat Hunting Toolkit for People Who Hate SIEMs](security/wazuh-siem-a-threat-hunting-toolkit-for-people-who-hate-siems.md) · [↗ valtersit.com](https://www.valtersit.com/guides/security/wazuh-siem-a-threat-hunting-toolkit-for-people-who-hate-siems/)
@@ -190,6 +192,10 @@
 
 - [GCP vs AWS Networking: VPCs, Peering, Transit Hubs](cloud/gcp-vs-aws-networking-vpcs-peering-transit-hubs.md) · [↗ valtersit.com](https://www.valtersit.com/guides/cloud/gcp-vs-aws-networking-vpcs-peering-transit-hubs/)
 
+## Api
+
+- [ValtersIT CVE API: Real-Time Threat Intelligence for Firewalls, SIEM, and DevSecOps Pipelines](api/valtersit-cve-api-threat-intelligence-integration-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/api/valtersit-cve-api-threat-intelligence-integration-guide/)
+
 ## Devsecops
 
 - [IaC Security: Checkov and tfsec for Terraform and Helm](devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm.md) · [↗ valtersit.com](https://www.valtersit.com/guides/devsecops/iac-security-checkov-and-tfsec-for-terraform-and-helm/)
@@ -202,6 +208,7 @@
 
 - [Blue-Green Deployments Without Kubernetes: Zero Downtime Is Boring (and That's the Point)](ci_cd/blue-green-deployments-without-kubernetes-zero-downtime-is-boring-and-that.md) · [↗ valtersit.com](https://www.valtersit.com/guides/ci_cd/blue-green-deployments-without-kubernetes-zero-downtime-is-boring-and-that/)
 - [Blue-Green Deployments: Zero-Downtime Without Kubernetes](ci_cd/blue-green-deployments-zero-downtime-without-kubernetes.md) · [↗ valtersit.com](https://www.valtersit.com/guides/ci_cd/blue-green-deployments-zero-downtime-without-kubernetes/)
+- [Dependency Review Gates: Blocking PRs with CVEs](ci_cd/dependency-review-gates-blocking-prs-with-cves.md) · [↗ valtersit.com](https://www.valtersit.com/guides/ci_cd/dependency-review-gates-blocking-prs-with-cves/)
 
 ---
 
