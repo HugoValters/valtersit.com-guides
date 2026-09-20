@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*152 guides · last updated 2026-09-19*
+*155 guides · last updated 2026-09-20*
 
 ---
 
@@ -172,6 +172,7 @@
 
 ## 🐧 Linux
 
+- [Linux Kernel Tuning: sysctl Parameters That Matter](linux/linux-kernel-tuning-sysctl-parameters-that-matter.md) · [↗ valtersit.com](https://www.valtersit.com/guides/linux/linux-kernel-tuning-sysctl-parameters-that-matter/)
 - [SSH Hardening Beyond Port 22: Certificate Auth and Jump Hosts](linux/ssh-hardening-beyond-port-22-certificate-auth-and-jump-hosts.md) · [↗ valtersit.com](https://www.valtersit.com/guides/linux/ssh-hardening-beyond-port-22-certificate-auth-and-jump-hosts/)
 - [eBPF Network Observability: Zero-Install Kernel Tools](linux/ebpf-network-observability-zero-install-kernel-tools.md) · [↗ valtersit.com](https://www.valtersit.com/guides/linux/ebpf-network-observability-zero-install-kernel-tools/)
 
@@ -194,7 +195,8 @@
 
 ## Api
 
-- [ValtersIT CVE API: Real-Time Threat Intelligence for Firewalls, SIEM, and DevSecOps Pipelines](api/valtersit-cve-api-threat-intelligence-integration-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/api/valtersit-cve-api-threat-intelligence-integration-guide/)
+- [ValtersIT CVE + Threat-IP API: Integration Guide for Firewalls, SIEM and CI/CD](api/valtersit-cve-api-threat-intelligence-integration-guide.md) · [↗ valtersit.com](https://www.valtersit.com/guides/api/valtersit-cve-api-threat-intelligence-integration-guide/)
+- [Why Security Teams Are Replacing Manual CVE Tracking With the ValtersIT API](api/valtersit-cve-api-why-buy-vulnerability-intelligence.md) · [↗ valtersit.com](https://www.valtersit.com/guides/api/valtersit-cve-api-why-buy-vulnerability-intelligence/)
 
 ## Devsecops
 
@@ -203,6 +205,10 @@
 ## Zima
 
 - [Docker on ZimaBoard: Memory Constraints & Workarounds](zima/docker-on-zimaboard-memory-constraints-workarounds.md) · [↗ valtersit.com](https://www.valtersit.com/guides/zima/docker-on-zimaboard-memory-constraints-workarounds/)
+
+## Git
+
+- [Git Worktrees: Multiple Working Directories Without Clones](git/git-worktrees-multiple-working-directories-without-clones.md) · [↗ valtersit.com](https://www.valtersit.com/guides/git/git-worktrees-multiple-working-directories-without-clones/)
 
 ## Ci_cd
 
