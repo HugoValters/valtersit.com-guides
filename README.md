@@ -3,7 +3,7 @@
 > Cybersecurity, homelab & DevOps guides by [Valters IT Hub](https://www.valtersit.com).
 > Full articles with examples, diagrams and configs: **[valtersit.com](https://www.valtersit.com)**
 
-*155 guides · last updated 2026-09-20*
+*156 guides · last updated 2026-09-21*
 
 ---
 
@@ -208,6 +208,7 @@
 
 ## Git
 
+- [Git Bisect: Binary Search for Regressions That Saves Hours](git/git-bisect-binary-search-for-regressions-that-saves-hours.md) · [↗ valtersit.com](https://www.valtersit.com/guides/git/git-bisect-binary-search-for-regressions-that-saves-hours/)
 - [Git Worktrees: Multiple Working Directories Without Clones](git/git-worktrees-multiple-working-directories-without-clones.md) · [↗ valtersit.com](https://www.valtersit.com/guides/git/git-worktrees-multiple-working-directories-without-clones/)
 
 ## Ci_cd
